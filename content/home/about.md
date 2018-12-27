@@ -24,7 +24,7 @@ weight = 5
   year = 2019
 
 [[education.courses]]
-  course = "BEng in Computer Science"
+  course = "B.Engg in Computer Science"
   institution = "Jadavpur University"
   year = 2017
   
