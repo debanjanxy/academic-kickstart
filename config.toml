@@ -71,7 +71,6 @@ enableGitInfo = false
   #Otherwise email to book an appointment
   #"""
   phone = "7400402120"
-  skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -302,23 +301,23 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+ # name = "Posts"
+  #url = "#posts"
+  #weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+#[[menu.main]]
+ # name = "Tutorials"
+  #url = "/tutorial/"
+  #weight = 5
 
 [[menu.main]]
   name = "Contact"
@@ -327,10 +326,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+ [[menu.main]]
+    name = "CV"
+    url = "files/cv.pdf"
+    weight = 7
 
 # Search.
 [params.search]
