@@ -26,7 +26,19 @@ weight = 7
   icon_pack = "fas"
   name = "Machine Learning"
   description = "100%"
+    
+  [[feature]]
+  icon = "eye"
+  icon_pack = "fas"
+  name = "Computer Vision"
+  description = "100%"
   
+  [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = "90%"
+    
   [[feature]]
   icon = "python"
   icon_pack = "fab"
@@ -34,47 +46,38 @@ weight = 7
   description = "100%"
   
   [[feature]]
-  icon = "eye"
-  icon_pack = "fas"
-  name = "Computer Vision"
-  description = "100%"
-    
-  [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "C++"
   description = "95%"
   
   [[feature]]
+  icon = "tumblr-square"
+  icon_pack = "fab"
+  name = "Tensorflow"
+  description = "90%"
+
+  [[feature]]
   icon = "android"
   icon_pack = "fab"
   name = "Android"
   description = "80%"
   
-  [[feature]]
-  icon = "tumblr-square"
-  icon_pack = "fab"
-  name = "Tensorflow"
-  description = "90%"
-  
+    
   [[feature]]
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "60%"
+  description = "80%"
   
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "80%"
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "90%"  
+  
   
 
 +++
