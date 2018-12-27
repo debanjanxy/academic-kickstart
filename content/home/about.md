@@ -10,11 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
+    "Data Science",
     "Machine Learning",
     "Deep Learning",
-    "Computer Vision",
-    "Data Science"
+    "Computer Vision"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,6 +31,5 @@ weight = 5
 
 # Biography
 
-Debanjan Das is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Debanjan Das is pursuing M.Tech in Computer Science from IIT Bombay. His research interest lies in the area of deep learning, computer vision, machine learning and data science. Currently he is working in the area of object recognition in satellite images using deep learning. He completed his bachelors from Jadavpur University in Computer Science with a First Class. He is also a Competitions Contributor in Kaggle.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
