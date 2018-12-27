@@ -45,7 +45,7 @@ date_format = "January 2006"
   
   * Managed labs and lab sessions
   * Mentored a group of 15 students
-  * Invigilated and evaluated graded labs and exams
+  * Invigilated and evaluated exams
   """
 
 +++
