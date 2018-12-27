@@ -60,7 +60,7 @@ enableGitInfo = false
   organizations = [ { name = "IIT Bombay", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Me_Blazer.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "debanjanxy@cse.iitb.ac.in"
