@@ -40,6 +40,6 @@ date_format = "January 2006"
   location = "Mumbai"
   date_start = "2017-07-17"
   date_end = "2019-05-10"
-  description = """Managed labs with other teaching assistants. Mentored and assisted several students."""
+  description = """Managed labs, mentored and assisted several students in various courses."""
 
 +++
