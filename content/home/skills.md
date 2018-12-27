@@ -22,6 +22,49 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "100%"
+  
+  [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Python"
+  description = "100%"
+  
+  [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Computer Vision"
+  description = "100%"
+    
+  [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "C++"
+  description = "95%"
+  
+  [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Android"
+  description = "80%"
+  
+  [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Tensorflow"
+  description = "90%"
+  
+  [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "JavaScript"
+  description = "60%"
+  
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -31,12 +74,12 @@ weight = 7
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "90%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Painting"
+  description = "60%"
 
 +++
