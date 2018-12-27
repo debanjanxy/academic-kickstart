@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Debanjan Das"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,25 +52,25 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Debanjan Das"
+  role = "Data Science Enthusiast"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "IIT Bombay", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
-  Otherwise email to book an appointment
-  """
-  phone = "888 888 88 88"
+  email = "debanjanxy@cse.iitb.ac.in"
+  address = "H-14, Room 118, IIT Bombay, Mumbai, 400076, India"
+  #office_hours = """
+  #Monday 10:00 to 13:00\\
+  #Wednesday 09:00 to 10:00\\
+  #Otherwise email to book an appointment
+  #"""
+  phone = "7400402120"
   skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -99,8 +99,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 0
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "19.4275"
+  longitude = "76.1697"
   zoom = 15
 
   # SITE SETUP
@@ -199,11 +199,11 @@ enableGitInfo = false
   publication_types = [
     'Uncategorized',  # 0
     'Conference paper',  # 1
-    'Journal article',  # 2
-    'Manuscript',  # 3
-    'Report',  # 4
-    'Book',  # 5
-    'Book section'  # 6
+    'Journal article',  # 0
+    'Manuscript',  # 0
+    'Report',  # 0
+    'Book',  # 0
+    'Book section'  # 0
   ]
 
   # Configuration of talk pages.
