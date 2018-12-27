@@ -34,12 +34,18 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Teaching Assistant"
+  title = "Senior Teaching Assistant"
   company = "IIT Bombay"
   company_url = ""
   location = "Mumbai"
   date_start = "2017-07-17"
   date_end = "2019-05-10"
-  description = """Managed labs, mentored and assisted several students in various courses."""
+  description = """
+  Responsibilities include:
+  
+  * Managed labs with a group of six junior teaching assistants for lab sessions
+  * Mentored a group of 14 students and cleared their doubts
+  * Invigilated and evaluated graded labs and exams
+  """
 
 +++
