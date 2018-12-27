@@ -43,8 +43,8 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Managed labs with a group of six junior teaching assistants for lab sessions
-  * Mentored a group of 14 students and cleared their doubts
+  * Managed labs and lab sessions
+  * Mentored a group of 15 students
   * Invigilated and evaluated graded labs and exams
   """
 
