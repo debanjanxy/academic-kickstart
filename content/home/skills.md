@@ -29,7 +29,7 @@ weight = 7
   
   [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "100%"
   
@@ -47,7 +47,7 @@ weight = 7
   
   [[feature]]
   icon = "android"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Android"
   description = "80%"
   
@@ -59,7 +59,7 @@ weight = 7
   
   [[feature]]
   icon = "js"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "JavaScript"
   description = "60%"
   
