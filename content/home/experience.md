@@ -28,9 +28,9 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Analysing data
+  * Modelling algorithms
+  * Deploying models
   """
 
 [[experience]]
