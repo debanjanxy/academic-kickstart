@@ -31,5 +31,4 @@ weight = 5
 
 # Biography
 
-Debanjan Das is pursuing M.Tech in Computer Science from IIT Bombay. His research interest lies in the area of deep learning, computer vision, machine learning and data science. Currently he is working in the area of object recognition in satellite images using deep learning. He completed his bachelors from Jadavpur University in Computer Science with a First Class. He is also a Competitions Contributor in Kaggle.
-
+Debanjan Das is a professional data scientist currently working at Accenture Operations. Currently, he is working on the problem of outlier detection in streaming data. He has completed M.Tech in Computer Science & Engineering from IIT Bombay. His research interest lies in the area of deep learning, computer vision, remote sensing, machine learning and data science. He has also worked in the area of object recognition in satellite images using deep learning. He generally prefers mountains over beaches. 
