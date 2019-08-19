@@ -53,18 +53,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Debanjan Das"
-  role = "Data Science Enthusiast"
+  role = "Data Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "IIT Bombay", url = "" } ]
+  organizations = [ { name = "Accenture Operations", url = "https://www.accenture.com/us-en/about/operations-index" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Me_Blazer1.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "dasdebanjan624@gmail.com"
-  address = "H-14, Room 118, IIT Bombay, Mumbai, 400076, India"
+  address = "C-24, Panchasayar, Kolkata - 700094"
   #office_hours = """
   #Monday 10:00 to 13:00\\
   #Wednesday 09:00 to 10:00\\
@@ -197,7 +197,7 @@ enableGitInfo = false
   #   translated.
   publication_types = [
     'Uncategorized',  # 0
-    'Conference paper',  # 1
+    'Conference paper',  # 2
     'Journal article',  # 0
     'Manuscript',  # 0
     'Report',  # 0
