@@ -28,9 +28,10 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Analysing data
-  * Modelling algorithms
-  * Deploying models
+  * Performed exploratory data analysis on real-life datasets
+  * Developed data visualization modules
+  * Developed anomaly detcetion module with inter-quartile range calculation of highly influential numerical features
+  * Experimented with several unsupervised anomaly detection algorithms (isolation forest, robust random cut forest, HDBSCAN etc.)
   """
 
 [[experience]]
